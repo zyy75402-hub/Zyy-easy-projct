@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>我们都一样｜本地可视化原型 v1</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">LOCAL VISUAL DEMO · v1</p>
+      <h1>我们都一样</h1>
+      <p class="subtitle">一个反事实人生生成器：用你现在的 MBTI 表现 + 成长环境，推演“剧本外的你”和另一个人生剧本里的你。</p>
+      <p class="notice">娱乐原型，不是心理诊断。后台数值用于调试和叙事生成，不代表真实人格结论。</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel" id="step-mbti">
+      <div class="section-title">
+        <span>01</span>
+        <div>
+          <h2>现在呈现出来的你</h2>
+          <p>直接选择 MBTI 四个字母。每项可点默认强弱，也可以手动输入数值。</p>
+        </div>
+      </div>
+      <div id="mbtiForm" class="mbti-grid"></div>
+    </section>
+
+    <section class="panel" id="step-calibration">
+      <div class="section-title">
+        <span>02</span>
+        <div>
+          <h2>少量当前表现校准</h2>
+          <p>这几题只用来修正 MBTI 不好覆盖的部分，不是完整人格测试。</p>
+        </div>
+      </div>
+      <div id="calibrationForm" class="question-list"></div>
+    </section>
+
+    <section class="panel" id="step-environment">
+      <div class="section-title">
+        <span>03</span>
+        <div>
+          <h2>你是怎么长大的</h2>
+          <p>核心题库。用成长环境反推哪些性格表现可能是被环境训练出来的。</p>
+        </div>
+      </div>
+      <div id="environmentForm" class="question-list"></div>
+    </section>
+
+    <section class="panel" id="step-script">
+      <div class="section-title">
+        <span>04</span>
+        <div>
+          <h2>选择一个平行成长剧本</h2>
+          <p>同一剧本会根据你的“剧本外底色”产生不同影响。</p>
+        </div>
+      </div>
+      <div id="scriptChoices" class="script-grid"></div>
+    </section>
+
+    <section class="panel actions">
+      <button id="generateBtn" class="primary-btn">生成我的平行人生</button>
+      <button id="resetBtn" class="secondary-btn">重置</button>
+    </section>
+
+    <section class="result-wrap" id="resultWrap" hidden>
+      <section class="result-card" id="resultCard">
+        <p class="eyebrow">RESULT</p>
+        <h2 id="resultTitle">你的平行人生结果</h2>
+        <div id="resultContent"></div>
+      </section>
+
+      <section class="debug-card">
+        <div class="debug-header">
+          <h2>后台调试面板</h2>
+          <p>用于检查算法是否跑偏；正式版可以隐藏。</p>
+        </div>
+        <div id="debugPanel"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>本地原型文件：index.html / styles.css / app.js。直接双击 index.html 可运行。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

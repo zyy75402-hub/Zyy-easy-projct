@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>我们都一样｜本地可视化原型 v3</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">LOCAL VISUAL DEMO · v3</p>
+    <h1>我们都一样</h1>
+    <p class="subtitle">一个反事实人生生成器：先确认你现在的 MBTI，再通过过去的场景反馈反推出“初始化设定”，最后把它放进另一个人生剧本。</p>
+    <p class="notice">娱乐原型，不是心理诊断。结果用于叙事推演，不代表真实人格结论。</p>
+  </header>
+
+  <main>
+    <section class="panel intro-panel">
+      <div class="flow-line">
+        <span>确认现实 MBTI</span><i></i><span>场景反推题</span><i></i><span>初始化设定</span><i></i><span>请挑选剧本</span><i></i><span>平行人生</span>
+      </div>
+    </section>
+
+    <section class="panel" id="step-mbti">
+      <div class="section-title">
+        <span>01</span>
+        <div>
+          <h2>确认你现在认为自己的 MBTI</h2>
+          <p>这里不是重新测试 MBTI，而是让系统知道你现在的自我认知起点。后续题目会用来反推：如果少一些成长环境的塑形，你的“初始化设定”可能会怎样变化。</p>
+        </div>
+      </div>
+      <div id="mbtiForm" class="mbti-grid"></div>
+    </section>
+
+    <section class="panel" id="step-current">
+      <div class="section-title">
+        <span>02</span>
+        <div>
+          <h2>补充确认现在的你</h2>
+          <p>这几题只用来微调“现实中的你”，不是反推题。全部使用同一种七级程度选项。</p>
+        </div>
+      </div>
+      <div id="currentForm" class="question-list compact"></div>
+    </section>
+
+    <section class="panel" id="step-reflection">
+      <div class="section-title">
+        <span>03</span>
+        <div>
+          <h2>过去的场景，怎样把你推成现在这样</h2>
+          <p>这些题不问“你是什么人”，而是问一些过去反复出现过的场景和外部反馈。系统会用它们反推初始化 MBTI 和物件标签。</p>
+        </div>
+      </div>
+      <div class="stage-nav" id="stageNav"></div>
+      <div id="reflectionForm" class="question-list"></div>
+      <div class="stage-actions">
+        <button id="prevStageBtn" class="secondary-btn small-btn">上一组</button>
+        <button id="nextStageBtn" class="secondary-btn small-btn">下一组</button>
+      </div>
+    </section>
+
+    <section class="panel actions sticky-actions">
+      <button id="initialReportBtn" class="primary-btn">生成初始化设定</button>
+      <button id="resetBtn" class="secondary-btn">重置</button>
+    </section>
+
+    <section class="result-wrap single" id="initialReportWrap" hidden>
+      <section class="result-card wide" id="initialReportCard">
+        <p class="eyebrow">INITIAL SETTING</p>
+        <h2>初始化设定</h2>
+        <div id="initialReportContent"></div>
+        <div class="report-actions">
+          <button class="link-btn" id="toggleDeepBtn">展开深层分析</button>
+          <button class="link-btn" id="exportDataBtn">导出本地匿名数据</button>
+        </div>
+        <div id="deepPanel" class="deep-panel" hidden></div>
+      </section>
+    </section>
+
+    <section class="panel" id="step-script" hidden>
+      <div class="section-title">
+        <span>04</span>
+        <div>
+          <h2>请挑选剧本</h2>
+          <p>选择一个平行成长环境。它不会对所有人产生一样的结果，而会放大或改写你的初始化设定。</p>
+        </div>
+      </div>
+      <div id="scriptChoices" class="script-grid"></div>
+      <div class="actions inline-actions">
+        <button id="parallelBtn" class="primary-btn">生成我的平行人生</button>
+      </div>
+    </section>
+
+    <section class="result-wrap single" id="parallelReportWrap" hidden>
+      <section class="result-card wide" id="parallelReportCard">
+        <p class="eyebrow">PARALLEL LIFE</p>
+        <h2 id="parallelTitle">你的平行人生</h2>
+        <div id="parallelReportContent"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>v3 local demo · 本地运行，不上传数据。可导出匿名 JSON 用于测试和调参。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

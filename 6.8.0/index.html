@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>我们都一样｜本地可视化原型 v2</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">LOCAL VISUAL DEMO · v2</p>
+    <h1>我们都一样</h1>
+    <p class="subtitle">先反推你的“初始化人格报告”，再把你放进另一个人生剧本。当前版本优先验证流程和算法可行性，视觉与文案包装后续再精修。</p>
+    <p class="notice">娱乐原型，不是心理诊断。所有 MBTI 与人格结果都是反事实叙事推测，不代表真实人格结论。</p>
+  </header>
+
+  <main>
+    <section class="panel intro-panel">
+      <div class="flow-line">
+        <span>现实 MBTI</span><i></i><span>成长环境</span><i></i><span>初始人格报告</span><i></i><span>请挑选剧本</span><i></i><span>平行人生</span>
+      </div>
+    </section>
+
+    <section class="panel" id="step-mbti">
+      <div class="section-title">
+        <span>01</span>
+        <div>
+          <h2>现实里的 MBTI</h2>
+          <p>直接选择四个字母。每项都有默认强度，也可以自定义数字。</p>
+        </div>
+      </div>
+      <div id="mbtiForm" class="mbti-grid"></div>
+    </section>
+
+    <section class="panel" id="step-calibration">
+      <div class="section-title">
+        <span>02</span>
+        <div>
+          <h2>少量当前表现校准</h2>
+          <p>这几题只用来修正 MBTI 无法覆盖的部分，不会把项目变成完整人格测试。</p>
+        </div>
+      </div>
+      <div id="calibrationForm" class="question-list compact"></div>
+    </section>
+
+    <section class="panel" id="step-environment">
+      <div class="section-title">
+        <span>03</span>
+        <div>
+          <h2>从小到大，你是怎么被环境塑形的</h2>
+          <p>题目会自然穿过家庭、学校、朋友、评价、表达、失败和关系，不在题目里强行标注分组。</p>
+        </div>
+      </div>
+      <div class="stage-nav" id="stageNav"></div>
+      <div id="environmentForm" class="question-list"></div>
+      <div class="stage-actions">
+        <button id="prevStageBtn" class="secondary-btn small-btn">上一组</button>
+        <button id="nextStageBtn" class="secondary-btn small-btn">下一组</button>
+      </div>
+    </section>
+
+    <section class="panel actions sticky-actions">
+      <button id="initialReportBtn" class="primary-btn">生成初始人格报告</button>
+      <button id="resetBtn" class="secondary-btn">重置</button>
+    </section>
+
+    <section class="result-wrap single" id="initialReportWrap" hidden>
+      <section class="result-card wide" id="initialReportCard">
+        <p class="eyebrow">INITIAL REPORT</p>
+        <h2>初始人格报告</h2>
+        <div id="initialReportContent"></div>
+        <button class="link-btn" id="toggleDeepBtn">展开深层分析</button>
+        <div id="deepPanel" class="deep-panel" hidden></div>
+      </section>
+    </section>
+
+    <section class="panel" id="step-script" hidden>
+      <div class="section-title">
+        <span>04</span>
+        <div>
+          <h2>请挑选剧本</h2>
+          <p>同一个剧本不会把所有人塑造成同一种人。它会放大、压住或改写你初始化设定里不同的部分。</p>
+        </div>
+      </div>
+      <div id="scriptChoices" class="script-grid"></div>
+      <div class="actions inline-actions">
+        <button id="parallelBtn" class="primary-btn">生成我的平行人生</button>
+      </div>
+    </section>
+
+    <section class="result-wrap single" id="parallelReportWrap" hidden>
+      <section class="result-card wide" id="parallelReportCard">
+        <p class="eyebrow">PARALLEL LIFE</p>
+        <h2 id="parallelTitle">你的平行人生</h2>
+        <div id="parallelReportContent"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>v2 local demo · 用于测试流程、题目、算法和文案方向。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
