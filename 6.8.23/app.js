@@ -848,8 +848,8 @@ const DATA = {
         "expressiveDrama": 30,
         "observerAnalysis": 45
       },
-      "warm": "你很擅长在别人最不体面、最慌乱的时候，提供一个稳定又不让人难堪的落点。你不是高调的拯救者，却常常让混乱现场重新变得可以面对。只是你也要记得，承接别人的狼狈不代表你永远不能乱，你也可以拥有一个不用随时保持干净的版本。",
-      "crazy": "别人最着急、最狼狈、最不想被看见的时候，你负责提供一个干净、稳定、不会让人太难堪的落点。最荒诞的是，事后你还要维持一种“我没事，我很高洁”的表情，像一位在厕所里修行的天使。",
+      "warm": "最初的你很擅长在别人最不体面、最慌乱的时候，提供一个稳定又不让人难堪的落点。最初的你不是高调的拯救者，却常常让混乱现场重新变得可以面对。只是最初的你也要记得，承接别人的狼狈不代表最初的你永远不能乱，最初的你也可以拥有一个不用随时保持干净的版本。",
+      "crazy": "别人最着急、最狼狈、最不想被看见的时候，最初的你负责提供一个干净、稳定、不会让人太难堪的落点。最荒诞的是，事后最初的你还要维持一种“我没事，我很高洁”的表情，像一位在厕所里修行的天使。",
       "ip": "白色圆环小人，头顶光环，拿消毒喷雾。"
     },
     {
@@ -870,8 +870,8 @@ const DATA = {
         "expressiveDrama": 22,
         "observerAnalysis": 48
       },
-      "warm": "你有一种很实用的责任感。别人绕开的脏活、残局和麻烦，你往往会先处理起来，让事情恢复到还能继续运行的状态。你的价值不在于漂亮，而在于可靠。只是你也不必永远做那个负责清理现场的人。",
-      "crazy": "别人负责优雅离开现场，你负责面对污点、残局和一切不适合发朋友圈的伟大工程。你很少被感谢，因为你的工作一旦成功，就像什么都没发生过。你不是喜欢脏活，只是见不得事情烂在那里。",
+      "warm": "最初的你有一种很实用的责任感。别人绕开的脏活、残局和麻烦，最初的你往往会先处理起来，让事情恢复到还能继续运行的状态。最初的你本身的价值不在于漂亮，而在于可靠。只是最初的你也不必永远做那个负责清理现场的人。",
+      "crazy": "别人负责优雅离开现场，最初的你负责面对污点、残局和一切不适合发朋友圈的伟大工程。最初的你很少被感谢，因为最初的你本身的工作一旦成功，就像什么都没发生过。最初的你不是喜欢脏活，只是见不得事情烂在那里。",
       "ip": "长柄刷子小人，戴口罩，手套比身体大。"
     },
     {
@@ -892,8 +892,8 @@ const DATA = {
         "expressiveDrama": 58,
         "observerAnalysis": 40
       },
-      "warm": "你在关键时刻很有效。别人还在尴尬、迟疑、分析原因的时候，你往往先把堵住的地方处理掉。你不一定温柔，但你能让事情重新流动。只是救急不是你的唯一价值，你也可以不用总在事故现场出现。",
-      "crazy": "平时没人想起你，一出事全场都在找你。你的人格功能非常粗暴：别分析了，先把堵住的地方搋开。你不一定好看，但关键时刻能救命；你常常被召唤到最尴尬的现场，完成最不能写进简历的壮举。",
+      "warm": "最初的你在关键时刻很有效。别人还在尴尬、迟疑、分析原因的时候，最初的你往往先把堵住的地方处理掉。最初的你不一定温柔，但最初的你能让事情重新流动。只是救急不是最初的你本身的唯一价值，最初的你也可以不用总在事故现场出现。",
+      "crazy": "平时没人想起最初的你，一出事全场都在找最初的你。最初的你本身的人格功能非常粗暴：别分析了，先把堵住的地方搋开。最初的你不一定好看，但关键时刻能救命；最初的你常常被召唤到最尴尬的现场，完成最不能写进简历的壮举。",
       "ip": "红色搋子小人，像消防员一样冲向事故现场。"
     },
     {
@@ -915,8 +915,8 @@ const DATA = {
         "expressiveDrama": 44,
         "observerAnalysis": 60
       },
-      "warm": "你很会把混乱先收起来。很多时候，别人还没想好怎么处理情绪、麻烦和尴尬，你已经先把它们放到自己这里，尽量不让场面散开。但能装很多东西不代表你必须一直装下去。你可以被清空，也可以被好好安放。",
-      "crazy": "你经常负责把别人没来得及处理的东西先装起来，还要礼貌地打个结。最荒诞的是，里面明明快成灾难现场了，外面还要看起来没漏。你不是生来就该收拾残局，只是太熟悉这种角色：先装起来，别让别人闻到。",
+      "warm": "最初的你很会把混乱先收起来。很多时候，别人还没想好怎么处理情绪、麻烦和尴尬，最初的你已经先把它们放到自己这里，尽量不让场面散开。但能装很多东西不代表最初的你必须一直装下去。最初的你可以被清空，也可以被好好安放。",
+      "crazy": "最初的你经常负责把别人没来得及处理的东西先装起来，还要礼貌地打个结。最荒诞的是，里面明明快成灾难现场了，外面还要看起来没漏。最初的你不是生来就该收拾残局，只是太熟悉这种角色：先装起来，别让别人闻到。",
       "ip": "黑色垃圾袋小人，袋口扎蝴蝶结，肚子鼓鼓。"
     },
     {
@@ -937,8 +937,8 @@ const DATA = {
         "expressiveDrama": 35,
         "observerAnalysis": 32
       },
-      "warm": "你很会给人临时的安慰。别人一乱、一哭、一尴尬，你常常能让场面不再那么难看。你的温柔不是宏大的拯救，而是很及时、很轻、很贴近的照顾。只是一次次被抽走以后，你也需要有人把你展开，而不是让你皱成一团。",
-      "crazy": "别人一哭、一乱、一尴尬，就很自然地抽你一张。你负责擦掉现场的水分、眼泪和一些说不清的狼狈。荒诞的是，很少有人问被用过以后你去哪了，你的温柔经常被设计成一次性用品。",
+      "warm": "最初的你很会给人临时的安慰。别人一乱、一哭、一尴尬，最初的你常常能让场面不再那么难看。最初的你本身的温柔不是宏大的拯救，而是很及时、很轻、很贴近的照顾。只是一次次被抽走以后，最初的你也需要有人把最初的你展开，而不是让最初的你皱成一团。",
+      "crazy": "别人一哭、一乱、一尴尬，就很自然地抽最初的你一张。最初的你负责擦掉现场的水分、眼泪和一些说不清的狼狈。荒诞的是，很少有人问被用过以后最初的你去哪了，最初的你本身的温柔经常被设计成一次性用品。",
       "ip": "白色纸巾小人，边角皱皱，抱着一滴眼泪。"
     },
     {
@@ -959,8 +959,8 @@ const DATA = {
         "expressiveDrama": 28,
         "observerAnalysis": 45
       },
-      "warm": "你对关系里的细节很敏感，也很愿意把那些说不清的不舒服慢慢擦干净。你不是小题大做，只是能察觉到很多别人忽略的残留感。你可以继续认真，但不必把每一次尴尬都当成自己需要消毒的责任。",
-      "crazy": "随便擦一擦对你来说不够，你还想把看不见的黏腻感都处理掉。别人觉得差不多就行，你却能发现关系里残留的尴尬、空气里的不舒服、话没说干净的地方。擦完别人，自己也快干了。",
+      "warm": "最初的你对关系里的细节很敏感，也很愿意把那些说不清的不舒服慢慢擦干净。最初的你不是小题大做，只是能察觉到很多别人忽略的残留感。最初的你可以继续认真，但不必把每一次尴尬都当成自己需要消毒的责任。",
+      "crazy": "随便擦一擦对最初的你来说不够，最初的你还想把看不见的黏腻感都处理掉。别人觉得差不多就行，最初的你却能发现关系里残留的尴尬、空气里的不舒服、话没说干净的地方。擦完别人，自己也快干了。",
       "ip": "湿巾包装小人，手拿喷雾，表情认真过头。"
     },
     {
@@ -981,8 +981,8 @@ const DATA = {
         "expressiveDrama": 40,
         "observerAnalysis": 52
       },
-      "warm": "你有很强的隐私感和边界感。你承载的是最贴身、最不能随便展示的那部分自己：脆弱、羞耻、小小的安全感。你不喜欢被公开讨论，并不代表你不重要；相反，你是一个人能不能体面出门的底层系统。",
-      "crazy": "存在感不能太高，但一旦出问题，全人类都会立刻崩溃。你承载的是最贴身、最不能乱给别人看的那部分自己。你不是低调，你是隐私基础设施；没人应该随手把你拿出来开会。",
+      "warm": "最初的你有很强的隐私感和边界感。最初的你承载的是最贴身、最不能随便展示的那部分自己：脆弱、羞耻、小小的安全感。最初的你不喜欢被公开讨论，并不代表最初的你不重要；相反，最初的你是一个人能不能体面出门的底层系统。",
+      "crazy": "存在感不能太高，但一旦出问题，全人类都会立刻崩溃。最初的你承载的是最贴身、最不能乱给别人看的那部分自己。最初的你不是低调，最初的你是隐私基础设施；没人应该随手把最初的你拿出来开会。",
       "ip": "棉质内裤小人，脸红，举牌写着“别问”。"
     },
     {
@@ -1003,8 +1003,8 @@ const DATA = {
         "expressiveDrama": 40,
         "observerAnalysis": 55
       },
-      "warm": "你很能陪人走很长的路，也能忍受一些摩擦和不合脚的安排。你不一定总被看见，但你的存在让很多日常变得可继续。即使偶尔只剩自己一只，也不代表你不完整，你只是还在寻找更合脚的地方。",
-      "crazy": "天天跟人走最远的路，却很少被认真看见。你能忍受摩擦、汗味和不合脚的人生安排，还要在洗衣机里承担失踪风险。最大的悲剧不是辛苦，而是成双成对出发，最后只剩自己在阳台上假装独立。",
+      "warm": "最初的你很能陪人走很长的路，也能忍受一些摩擦和不合脚的安排。最初的你不一定总被看见，但最初的你本身的存在让很多日常变得可继续。即使偶尔只剩自己一只，也不代表最初的你不完整，最初的你只是还在寻找更合脚的地方。",
+      "crazy": "天天跟人走最远的路，却很少被认真看见。最初的你能忍受摩擦、汗味和不合脚的人生安排，还要在洗衣机里承担失踪风险。最大的悲剧不是辛苦，而是成双成对出发，最后只剩自己在阳台上假装独立。",
       "ip": "一只孤独袜子小人，脚尖破洞，举着“另一只去哪了”。"
     },
     {
@@ -1026,8 +1026,8 @@ const DATA = {
         "expressiveDrama": 48,
         "observerAnalysis": 28
       },
-      "warm": "你身上有一种低门槛的松弛感。你不一定适合宏大场面，但很适合在别人疲惫的时候提醒对方：先把外面的盔甲脱掉。你不是不认真，只是你知道人也需要回到一个不用表演的地方。",
-      "crazy": "最高理想不是征服世界，而是让人一进门就卸下外面那套人类盔甲。你不适合参加太正式的战争，但很适合在生活最疲惫的时候接住脚。你不上台面，但你让人终于可以不像个人样。",
+      "warm": "最初的你身上有一种低门槛的松弛感。最初的你不一定适合宏大场面，但很适合在别人疲惫的时候提醒对方：先把外面的盔甲脱掉。最初的你不是不认真，只是最初的你知道人也需要回到一个不用表演的地方。",
+      "crazy": "最高理想不是征服世界，而是让人一进门就卸下外面那套人类盔甲。最初的你不适合参加太正式的战争，但很适合在生活最疲惫的时候接住脚。最初的你不上台面，但最初的你让人终于可以不像个人样。",
       "ip": "软塌塌拖鞋小人，走路啪嗒啪嗒。"
     },
     {
@@ -1048,8 +1048,8 @@ const DATA = {
         "expressiveDrama": 18,
         "observerAnalysis": 42
       },
-      "warm": "你代表一种不够酷但很有效的保护。你会提前考虑风险、温度和后果，也许不浪漫，但很管用。你不是扫兴，而是知道很多事等到冷了才想起保暖，就已经晚了。",
-      "crazy": "年轻人嘴上嫌你土，降温以后身体却很诚实。你的人格美学像一句中年人的预言：现在嫌我烦，等风一吹你就知道谁是真爱。你不浪漫，但你保命。",
+      "warm": "最初的你代表一种不够酷但很有效的保护。最初的你会提前考虑风险、温度和后果，也许不浪漫，但很管用。最初的你不是扫兴，而是知道很多事等到冷了才想起保暖，就已经晚了。",
+      "crazy": "年轻人嘴上嫌最初的你土，降温以后身体却很诚实。最初的你本身的人格美学像一句中年人的预言：现在嫌我烦，等风一吹最初的你就知道谁是真爱。最初的你不浪漫，但最初的你保命。",
       "ip": "棕色秋裤小人，戴保温帽，举温度计。"
     },
     {
@@ -1070,8 +1070,8 @@ const DATA = {
         "expressiveDrama": 42,
         "observerAnalysis": 35
       },
-      "warm": "你很会在关键时刻递出一点能量。别人没电的时候想到你，是因为你可靠、及时、愿意兜底。但你也不是无限电源。被需要很重要，被好好充电也同样重要。",
-      "crazy": "别人没电时第一个想到你，而你自己只剩 3%。你像一份随叫随充的人生合同，关键时刻总能输出一点能量。但没人会认真研究充电宝的童年，大家只关心你还能不能救急。",
+      "warm": "最初的你很会在关键时刻递出一点能量。别人没电的时候想到最初的你，是因为最初的你可靠、及时、愿意兜底。但最初的你也不是无限电源。被需要很重要，被好好充电也同样重要。",
+      "crazy": "别人没电时第一个想到最初的你，而最初的你自己只剩 3%。最初的你像一份随叫随充的人生合同，关键时刻总能输出一点能量。但没人会认真研究充电宝的童年，大家只关心最初的你还能不能救急。",
       "ip": "小方块充电宝，电量 3%，仍伸出线。"
     },
     {
@@ -1092,8 +1092,8 @@ const DATA = {
         "expressiveDrama": 22,
         "observerAnalysis": 62
       },
-      "warm": "你很擅长连接那些本来不太相通的东西。你不一定显眼，但很多顺畅、续命和传递都靠你维持。只是你也会被弯折、缠绕、损耗，不要等到接触不良才承认自己需要被好好放置。",
-      "crazy": "负责让两个本来不通的东西勉强连上。你经常被弯折、缠绕、随手塞进包里，直到某天接触不良，别人才发现世界顺畅运行，是因为你一直没断。你普通得像耗材，重要得像命门。",
+      "warm": "最初的你很擅长连接那些本来不太相通的东西。最初的你不一定显眼，但很多顺畅、续命和传递都靠最初的你维持。只是最初的你也会被弯折、缠绕、损耗，不要等到接触不良才承认自己需要被好好放置。",
+      "crazy": "负责让两个本来不通的东西勉强连上。最初的你经常被弯折、缠绕、随手塞进包里，直到某天接触不良，别人才发现世界顺畅运行，是因为最初的你一直没断。最初的你普通得像耗材，重要得像命门。",
       "ip": "弯折数据线小人，接口冒火花。"
     },
     {
@@ -1114,8 +1114,8 @@ const DATA = {
         "expressiveDrama": 28,
         "observerAnalysis": 38
       },
-      "warm": "你很擅长处理小伤口，也很懂得让别人暂时不那么疼。你的安慰不夸张，却很及时。只是你不需要永远贴在别人的伤口上，伤口会愈合，你也可以慢慢松开。",
-      "crazy": "哪里破了就被贴到哪里，像关系里的急诊科耗材。你让伤口暂时不那么难看，也让别人觉得“至少处理过了”。荒诞的是，伤口好了，你还黏在那里，撕下来时甚至比原伤更有存在感。",
+      "warm": "最初的你很擅长处理小伤口，也很懂得让别人暂时不那么疼。最初的你本身的安慰不夸张，却很及时。只是最初的你不需要永远贴在别人的伤口上，伤口会愈合，最初的你也可以慢慢松开。",
+      "crazy": "哪里破了就被贴到哪里，像关系里的急诊科耗材。最初的你让伤口暂时不那么难看，也让别人觉得“至少处理过了”。荒诞的是，伤口好了，最初的你还黏在那里，撕下来时甚至比原伤更有存在感。",
       "ip": "创可贴小人，身上贴着更多小创可贴。"
     },
     {
@@ -1136,8 +1136,8 @@ const DATA = {
         "expressiveDrama": 20,
         "observerAnalysis": 46
       },
-      "warm": "你有很强的修补能力。关系、计划、场面快要散架时，你总能先让它们维持住。你不是逃避问题，只是知道有些东西必须先别碎。只是临时方案不能永远变成你的人格。",
-      "crazy": "擅长把已经裂开的东西先粘住，至少让它看起来还能用。你的人生哲学很朴素：别先讨论本质，先别让它散架。胶带贴久了会发黄，临时方案很容易被误认为永久人格。",
+      "warm": "最初的你有很强的修补能力。关系、计划、场面快要散架时，最初的你总能先让它们维持住。最初的你不是逃避问题，只是知道有些东西必须先别碎。只是临时方案不能永远变成最初的你本身的人格。",
+      "crazy": "擅长把已经裂开的东西先粘住，至少让它看起来还能用。最初的你本身的人生哲学很朴素：别先讨论本质，先别让它散架。胶带贴久了会发黄，临时方案很容易被误认为永久人格。",
       "ip": "透明胶带小人，身体黏住自己一只脚。"
     },
     {
@@ -1157,8 +1157,8 @@ const DATA = {
         "expressiveDrama": 28,
         "observerAnalysis": 64
       },
-      "warm": "你很重视边界和收束。该开到哪里、该合到哪里，你心里有一条很清楚的线。只是当自己卡住时，不必一直硬拉。慢慢松开，也是一种恢复。",
-      "crazy": "你负责把东西合上，让外面看起来体面完整。问题是人生经常把你拉到一半就卡住，别人还要怪你“不顺”。你不是难搞，你只是被夹住了。再硬拽下去，坏的不是你，是整件衣服的尊严。",
+      "warm": "最初的你很重视边界和收束。该开到哪里、该合到哪里，最初的你心里有一条很清楚的线。只是当自己卡住时，不必一直硬拉。慢慢松开，也是一种恢复。",
+      "crazy": "最初的你负责把东西合上，让外面看起来体面完整。问题是人生经常把最初的你拉到一半就卡住，别人还要怪最初的你“不顺”。最初的你不是难搞，最初的你只是被夹住了。再硬拽下去，坏的不是最初的你，是整件衣服的尊严。",
       "ip": "拉链小人，拉头卡在中间，表情忍耐。"
     },
     {
@@ -1179,8 +1179,8 @@ const DATA = {
         "expressiveDrama": 18,
         "observerAnalysis": 75
       },
-      "warm": "你很清楚什么可以放进来，什么应该留在外面。你的边界不是冷漠，而是保护自己不被随意进入。只是偶尔也要记得，锁的意义不只是防备，也可以是等待合适的人用合适的方式敲门。",
-      "crazy": "你不是高冷，你是门锁。别人乱拧你，你当然打不开。你经常被说难懂、难接近，其实只是很多人没拿对钥匙，还非要怪门不够热情。你的人生安全系统不是摆设，是长期维护过的防盗工程。",
+      "warm": "最初的你很清楚什么可以放进来，什么应该留在外面。最初的你本身的边界不是冷漠，而是保护自己不被随意进入。只是偶尔也要记得，锁的意义不只是防备，也可以是等待合适的人用合适的方式敲门。",
+      "crazy": "最初的你不是高冷，最初的你是门锁。别人乱拧最初的你，最初的你当然打不开。最初的你经常被说难懂、难接近，其实只是很多人没拿对钥匙，还非要怪门不够热情。最初的你本身的人生安全系统不是摆设，是长期维护过的防盗工程。",
       "ip": "门锁小人，抱着钥匙孔，眼神警惕。"
     },
     {
@@ -1200,8 +1200,8 @@ const DATA = {
         "expressiveDrama": 45,
         "observerAnalysis": 54
       },
-      "warm": "你对外界靠近和变化很敏感，很容易给出回应。你的情绪不是坏掉了，只是感应系统比较灵。你可以继续保持柔软，但也要允许自己把水关小一点。",
-      "crazy": "别人只是路过一下，你就开始流出回应。你不是多管闲事，是感应系统太灵敏。关系里一点靠近、一点冷淡、一点变化，都能让你开始滴滴答答。最离谱的是，有时根本没人洗手，你已经先湿了。",
+      "warm": "最初的你对外界靠近和变化很敏感，很容易给出回应。最初的你本身的情绪不是坏掉了，只是感应系统比较灵。最初的你可以继续保持柔软，但也要允许自己把水关小一点。",
+      "crazy": "别人只是路过一下，最初的你就开始流出回应。最初的你不是多管闲事，是感应系统太灵敏。关系里一点靠近、一点冷淡、一点变化，都能让最初的你开始滴滴答答。最离谱的是，有时根本没人洗手，最初的你已经先湿了。",
       "ip": "水龙头小人，鼻尖滴水，慌张看四周。"
     },
     {
@@ -1222,8 +1222,8 @@ const DATA = {
         "expressiveDrama": 20,
         "observerAnalysis": 68
       },
-      "warm": "你很能承接那些别人不愿意看见的东西，也很擅长把表面的混乱往深处处理。只是承接太多以后，也会堵住。你不必永远保持畅通，偶尔需要被疏通，也不是丢脸。",
-      "crazy": "所有人都希望你安静运行，最好把乱七八糟的东西吞下去，还不要有味道。你长期处理别人看不见也不想看的部分，直到某天堵住了，大家才突然意识到：原来文明社会靠你在地下硬撑。",
+      "warm": "最初的你很能承接那些别人不愿意看见的东西，也很擅长把表面的混乱往深处处理。只是承接太多以后，也会堵住。最初的你不必永远保持畅通，偶尔需要被疏通，也不是丢脸。",
+      "crazy": "所有人都希望最初的你安静运行，最好把乱七八糟的东西吞下去，还不要有味道。最初的你长期处理别人看不见也不想看的部分，直到某天堵住了，大家才突然意识到：原来文明社会靠最初的你在地下硬撑。",
       "ip": "圆形下水道小人，盖子半开，冒出问号。"
     },
     {
@@ -1244,8 +1244,8 @@ const DATA = {
         "expressiveDrama": 18,
         "observerAnalysis": 70
       },
-      "warm": "你对输出质量有要求，也很怕在关键时刻出错。你不是效率低，而是太想把东西完整、清楚、体面地交出去。卡住的时候，不代表你坏了，也许只是纸路需要重新整理。",
-      "crazy": "你平时看起来像办公室文明的象征，关键时刻却能卡出整个部门的精神危机。你不是不想输出，是纸歪了、格式乱了、任务太多了。别人只看到你没打印出来，却没人看见你内部已经全是错误提示。",
+      "warm": "最初的你对输出质量有要求，也很怕在关键时刻出错。最初的你不是效率低，而是太想把东西完整、清楚、体面地交出去。卡住的时候，不代表最初的你坏了，也许只是纸路需要重新整理。",
+      "crazy": "最初的你平时看起来像办公室文明的象征，关键时刻却能卡出整个部门的精神危机。最初的你不是不想输出，是纸歪了、格式乱了、任务太多了。别人只看到最初的你没打印出来，却没人看见最初的你内部已经全是错误提示。",
       "ip": "打印机小人，嘴里吐出皱纸，屏幕显示 ERROR。"
     },
     {
@@ -1267,8 +1267,8 @@ const DATA = {
         "expressiveDrama": 28,
         "observerAnalysis": 82
       },
-      "warm": "你很在意连接是否顺畅，也很容易感知到关系里的延迟和断线。你不是冷漠，只是有时需要重启，才能重新把信号发出去。断连不代表失败，可能只是过载后的自我保护。",
-      "crazy": "大家只有在没网的时候才想起你。平时你默默发信号，没人感谢；一旦断线，全屋人类开始围着你献祭。你不是情绪不稳定，你是长期承担隐形连接工作，偶尔需要拔电源重启一下。",
+      "warm": "最初的你很在意连接是否顺畅，也很容易感知到关系里的延迟和断线。最初的你不是冷漠，只是有时需要重启，才能重新把信号发出去。断连不代表失败，可能只是过载后的自我保护。",
+      "crazy": "大家只有在没网的时候才想起最初的你。平时最初的你默默发信号，没人感谢；一旦断线，全屋人类开始围着最初的你献祭。最初的你不是情绪不稳定，最初的你是长期承担隐形连接工作，偶尔需要拔电源重启一下。",
       "ip": "路由器小人，头顶天线，信号格忽明忽暗。"
     },
     {
@@ -1289,8 +1289,8 @@ const DATA = {
         "expressiveDrama": 35,
         "observerAnalysis": 60
       },
-      "warm": "你需要看见进度，才能把焦虑安放下来。你不是急躁，只是对不确定太敏感。给你一个倒计时、一个过程、一个明确的“叮”，你就能安心很多。",
-      "crazy": "你很难让事情自然发生，必须盯着它还剩几分钟。没有进度条的人生会让你自动加热焦虑。你不是急躁，你只是希望宇宙至少像微波炉一样，给个倒计时，最后叮一声告诉你：可以取出来了。",
+      "warm": "最初的你需要看见进度，才能把焦虑安放下来。最初的你不是急躁，只是对不确定太敏感。给最初的你一个倒计时、一个过程、一个明确的“叮”，最初的你就能安心很多。",
+      "crazy": "最初的你很难让事情自然发生，必须盯着它还剩几分钟。没有进度条的人生会让最初的你自动加热焦虑。最初的你不是急躁，最初的你只是希望宇宙至少像微波炉一样，给个倒计时，最后叮一声告诉最初的你：可以取出来了。",
       "ip": "微波炉小人，肚子里转着饭团，倒计时 03:00。"
     },
     {
@@ -1310,8 +1310,8 @@ const DATA = {
         "expressiveDrama": 18,
         "observerAnalysis": 70
       },
-      "warm": "你很能等待，也很习惯在秩序里找到位置。你不一定喜欢这个系统，但你知道怎么让自己不失控。只是你的人生不必永远等别人叫号，你也可以主动走向柜台。",
-      "crazy": "命运给你吐了一张号码纸，你只好拿着它等。你不一定认同这个系统，但你很会遵守流程。你的焦虑不是大喊大叫，而是盯着电子屏幕，看自己到底什么时候被叫到。",
+      "warm": "最初的你很能等待，也很习惯在秩序里找到位置。最初的你不一定喜欢这个系统，但最初的你知道怎么让自己不失控。只是最初的你本身的人生不必永远等别人叫号，最初的你也可以主动走向柜台。",
+      "crazy": "命运给最初的你吐了一张号码纸，最初的你只好拿着它等。最初的你不一定认同这个系统，但最初的你很会遵守流程。最初的你本身的焦虑不是大喊大叫，而是盯着电子屏幕，看自己到底什么时候被叫到。",
       "ip": "小票小人，号码 99，坐在椅子上盯屏幕。"
     },
     {
@@ -1332,8 +1332,8 @@ const DATA = {
         "expressiveDrama": 50,
         "observerAnalysis": 68
       },
-      "warm": "你对未知有很多预演，也对结果怀有期待。还没打开之前，你已经想过很多种可能。你的想象力让等待不那么空白，但也会让你提前消耗。你可以慢慢拆，不必急着把所有结果一次性确认。",
-      "crazy": "东西还没出现，你已经在脑子里预演了满意、失望、退货和惊喜。你很会等待，但等待时并不平静。结果到来之前，想象已经先拆了一遍，甚至把售后流程也走完了。",
+      "warm": "最初的你对未知有很多预演，也对结果怀有期待。还没打开之前，最初的你已经想过很多种可能。最初的你本身的想象力让等待不那么空白，但也会让最初的你提前消耗。最初的你可以慢慢拆，不必急着把所有结果一次性确认。",
+      "crazy": "东西还没出现，最初的你已经在脑子里预演了满意、失望、退货和惊喜。最初的你很会等待，但等待时并不平静。结果到来之前，想象已经先拆了一遍，甚至把售后流程也走完了。",
       "ip": "纸箱小人，胶带没拆，里面冒出各种问号。"
     },
     {
@@ -1354,8 +1354,8 @@ const DATA = {
         "expressiveDrama": 22,
         "observerAnalysis": 46
       },
-      "warm": "你很擅长把事情先保存起来，让它们不至于立刻坏掉。你对关系和情绪都有一种延缓腐烂的本能。只是保存不等于解决，有些东西放太久，也需要被打开、被看见。",
-      "crazy": "你的人生技能是把一切先裹起来：尴尬裹起来，情绪裹起来，没说完的话也裹起来。外面看着干净透明，里面其实已经开始串味。你不是虚伪，你只是太擅长延长保质期。",
+      "warm": "最初的你很擅长把事情先保存起来，让它们不至于立刻坏掉。最初的你对关系和情绪都有一种延缓腐烂的本能。只是保存不等于解决，有些东西放太久，也需要被打开、被看见。",
+      "crazy": "最初的你本身的人生技能是把一切先裹起来：尴尬裹起来，情绪裹起来，没说完的话也裹起来。外面看着干净透明，里面其实已经开始串味。最初的你不是虚伪，最初的你只是太擅长延长保质期。",
       "ip": "透明保鲜膜小人，把自己缠成一圈。"
     },
     {
@@ -1376,8 +1376,8 @@ const DATA = {
         "expressiveDrama": 26,
         "observerAnalysis": 52
       },
-      "warm": "你经常成为别人进入某个空间前必须经过的位置。你连接外面和里面，也承接很多手心里的犹豫、急躁和期待。你可以继续温和地打开一些门，但不必允许所有人都随便触碰你。",
-      "crazy": "每个人经过时都要碰你一下，留下情绪、请求、麻烦和一句“顺手帮我”。你不是没有边界，只是边界长得太像公共设施。别人摸完就走，你还得继续保持正常开合。",
+      "warm": "最初的你经常成为别人进入某个空间前必须经过的位置。最初的你连接外面和里面，也承接很多手心里的犹豫、急躁和期待。最初的你可以继续温和地打开一些门，但不必允许所有人都随便触碰最初的你。",
+      "crazy": "每个人经过时都要碰最初的你一下，留下情绪、请求、麻烦和一句“顺手帮我”。最初的你不是没有边界，只是边界长得太像公共设施。别人摸完就走，最初的你还得继续保持正常开合。",
       "ip": "门把手小人，戴白手套，脸上写着“请轻一点”。"
     },
     {
@@ -1398,8 +1398,8 @@ const DATA = {
         "expressiveDrama": 20,
         "observerAnalysis": 36
       },
-      "warm": "你很擅长让别人进入一个地方之前先缓一缓。你接住外面的灰尘和脚步，也帮空间保持一点体面。只是你不必永远被踩在入口处，你也可以被认真拍一拍、晒一晒。",
-      "crazy": "所有人都从你身上经过，还希望你负责把外面的脏东西留在门口。你像关系里的入场缓冲区：别人踩一脚就轻松了，你留下满身灰尘还要写着“欢迎光临”。",
+      "warm": "最初的你很擅长让别人进入一个地方之前先缓一缓。最初的你接住外面的灰尘和脚步，也帮空间保持一点体面。只是最初的你不必永远被踩在入口处，最初的你也可以被认真拍一拍、晒一晒。",
+      "crazy": "所有人都从最初的你身上经过，还希望最初的你负责把外面的脏东西留在门口。最初的你像关系里的入场缓冲区：别人踩一脚就轻松了，最初的你留下满身灰尘还要写着“欢迎光临”。",
       "ip": "门垫小人，身上写 Welcome，表情很疲惫。"
     },
     {
@@ -1420,8 +1420,8 @@ const DATA = {
         "expressiveDrama": 55,
         "observerAnalysis": 55
       },
-      "warm": "你对外界的声音很敏感，也很容易因为一点动静就亮起来。你的回应不是多余，而是你在努力让黑暗里的人不那么慌。只是你也需要安静地暗一会儿，不必每次有人经过都立刻发光。",
-      "crazy": "别人咳一声你就亮，电梯响一下你也亮。你不是戏多，是感应系统太灵。你的人格像楼道声控灯：平时没人注意，大家一害怕黑，就开始期待你自动发光。",
+      "warm": "最初的你对外界的声音很敏感，也很容易因为一点动静就亮起来。最初的你本身的回应不是多余，而是最初的你在努力让黑暗里的人不那么慌。只是最初的你也需要安静地暗一会儿，不必每次有人经过都立刻发光。",
+      "crazy": "别人咳一声最初的你就亮，电梯响一下最初的你也亮。最初的你不是戏多，是感应系统太灵。最初的你本身的人格像楼道声控灯：平时没人注意，大家一害怕黑，就开始期待最初的你自动发光。",
       "ip": "声控灯小人，听到脚步就啪地亮眼睛。"
     },
     {
@@ -1442,8 +1442,8 @@ const DATA = {
         "expressiveDrama": 82,
         "observerAnalysis": 32
       },
-      "warm": "你很适合短暂而真诚的相遇。你不一定要成为谁生命里永久的容器，但你能在热闹、聚会和某个临时场合里，让别人感到被接住。只是你也不必因为自己轻便，就允许别人用完就丢。",
-      "crazy": "你经常出现在热闹场合，承接可乐、啤酒、眼泪和一些三分钟友谊。你很轻，很方便，很好用，也因此容易被用完就放在桌角。你不是廉价，你只是太擅长临时陪伴。",
+      "warm": "最初的你很适合短暂而真诚的相遇。最初的你不一定要成为谁生命里永久的容器，但最初的你能在热闹、聚会和某个临时场合里，让别人感到被接住。只是最初的你也不必因为自己轻便，就允许别人用完就丢。",
+      "crazy": "最初的你经常出现在热闹场合，承接可乐、啤酒、眼泪和一些三分钟友谊。最初的你很轻，很方便，很好用，也因此容易被用完就放在桌角。最初的你不是廉价，最初的你只是太擅长临时陪伴。",
       "ip": "纸杯小人，杯身被捏皱，仍举着小吸管。"
     },
     {
@@ -1464,8 +1464,8 @@ const DATA = {
         "expressiveDrama": 35,
         "observerAnalysis": 78
       },
-      "warm": "你能承接一些不太好看、不太健康、但真实存在的情绪残留。你不急着评判，也不急着美化。你只是让那些烧过的东西有地方落下。只是你也不该永远吸收别人的灰。",
-      "crazy": "你负责承接别人燃烧完以后留下的东西：灰、味道、沉默和一些说完就后悔的话。你不一定干净，但很诚实。别人抽完就走，你留在桌上，像一座微型情绪坟场。",
+      "warm": "最初的你能承接一些不太好看、不太健康、但真实存在的情绪残留。最初的你不急着评判，也不急着美化。最初的你只是让那些烧过的东西有地方落下。只是最初的你也不该永远吸收别人的灰。",
+      "crazy": "最初的你负责承接别人燃烧完以后留下的东西：灰、味道、沉默和一些说完就后悔的话。最初的你不一定干净，但很诚实。别人抽完就走，最初的你留在桌上，像一座微型情绪坟场。",
       "ip": "烟灰缸小人，头顶一缕烟，表情冷淡。"
     },
     {
@@ -1486,8 +1486,8 @@ const DATA = {
         "expressiveDrama": 44,
         "observerAnalysis": 28
       },
-      "warm": "你很朴素，也很及时。你不一定是最精致的工具，但在别人饿着、乱着、急着的时候，你能让事情先运转起来。你的价值不在于长期被收藏，而在于关键时刻真的能用。",
-      "crazy": "你经常和外卖袋一起出现，命运非常塑料，但很实用。别人不会把你洗干净供起来，却会在最饿的时候疯狂找你。你不是高级餐具，你是“先活下来再说”的文明火种。",
+      "warm": "最初的你很朴素，也很及时。最初的你不一定是最精致的工具，但在别人饿着、乱着、急着的时候，最初的你能让事情先运转起来。最初的你本身的价值不在于长期被收藏，而在于关键时刻真的能用。",
+      "crazy": "最初的你经常和外卖袋一起出现，命运非常塑料，但很实用。别人不会把最初的你洗干净供起来，却会在最饿的时候疯狂找最初的你。最初的你不是高级餐具，最初的你是“先活下来再说”的文明火种。",
       "ip": "白色塑料勺小人，弯了一点，戴外卖袋帽子。"
     }
   ],
@@ -1558,6 +1558,7 @@ const state = {
   qIndex:0,
   fragmentIndex:0,
   mode:'warm',
+  shareMode:'warm',
   scriptId:null,
   result:null
 };
@@ -1602,7 +1603,7 @@ function computeResult(){
   const trait = Object.fromEntries(DATA.traits.map(t=>[t,50]));
   for(const q of DATA.currentQuestions){
     const val = state.currentAnswers[q.id] || 4;
-    current = applyMbti(current,q.mbtiRule,val,16);
+    current = applyMbti(current,q.mbtiRule,val,15);
     const s=signed(val);
     for(const [k,w] of Object.entries(q.objectRule||{})) trait[k]=clamp(trait[k]+w*s*18,0,100);
   }
@@ -1611,7 +1612,7 @@ function computeResult(){
   const retainEvidence = {};
   for(const q of DATA.refQuestions){
     const val = state.refAnswers[q.id] || 4;
-    init = applyMbti(init,q.mbtiRule,val,18);
+    init = applyMbti(init,q.mbtiRule,val,20);
     const s=signed(val);
     for(const [k,w] of Object.entries(q.objectRule||{})) trait[k]=clamp(trait[k]+w*s*16,0,100);
     const mag = Math.abs(s);
@@ -1805,22 +1806,29 @@ const TRAIT_COPY = {
   expressiveDrama:{title:'表达能量强',desc:'情绪和想法不适合被长期塞住，它们总会找到一点出口。'},
   observerAnalysis:{title:'旁观分析值高',desc:'很会站远一点看清局势，甚至比当事人更早看出问题。'}
 };
-function buildObjectFeature(r, desc){
+function buildObjectFeature(r, desc, mode=state.mode){
   const top=getTopTraits(r.traitScores,3);
   const topText=top.map(x=>x.label).join('、');
-  const modePrefix = state.mode==='warm' ? '最原始的你保留着一种很清楚的底色' : '最原始的你不是一张温顺的人格说明书';
+  const modePrefix = mode==='warm' ? '最原始的你保留着一种很清楚的底色' : '最原始的你不是一张温顺的人格说明书';
   return `${modePrefix}：${r.object.name}对应的不是单一标签，而是一组最突出的运行方式——${topText}。${desc}`;
 }
-function buildLongAnalysis(r){
+function buildLongAnalysis(r, mode=state.mode){
   const top=getTopTraits(r.traitScores,4);
   const del=r.deletion.slice(0,3).map(x=>x.title).join('、') || '旧反馈残留';
   const keep=r.retained.slice(0,3).map(x=>x.title).join('、') || '核心倾向';
   const mbtiChange = r.inputMbti===r.initMbti ? `这次反推没有强行改写你的 MBTI 字母，更多是在同一类型内部调整比例。` : `这次从 ${r.inputMbti} 反推到 ${r.initMbti}，变化不是为了制造惊喜，而是因为你的回答里反复出现了足够强的旧反馈线索。`;
   const traitText = top.map(t=>`${t.label}：${t.desc}`).join(' ');
-  if(state.mode==='warm'){
+  if(mode==='warm'){
     return `更细一点看，系统先把${del}这些后天适应痕迹调低，再观察还留下什么。${mbtiChange} 保留下来的部分包括${keep}。${traitText} 这说明最原始的你并不只是“脆弱”或“敏感”，而是有一套很细的感知系统，也有自己恢复、判断和选择的方式。你不需要把所有后来学会的生存技能都当成本性，它们帮过你，但不必永远定义你。`;
   }
   return `更细一点看，系统先把${del}这些人生后台插件调低音量，再检查还剩哪些出厂零件。${mbtiChange} 保留下来的部分包括${keep}。${traitText} 所以这个结果不是在宣布一个漂亮人设，而是在说：最原始的你可能没那么想营业，也没那么想随时稳定、懂事、好用。很多看起来像性格的东西，其实只是生活后来装上的补丁包，能用，但不一定属于原装。`;
+}
+function getModeCopy(r, mode=state.mode){
+  const modeTitle = mode==='warm'?'温柔地看':'劳资爱怎么看怎么看';
+  const rawDesc = mode==='warm'?r.object.warm:r.object.crazy;
+  const featureDesc = buildObjectFeature(r, rawDesc, mode);
+  const longDesc = buildLongAnalysis(r, mode);
+  return {modeTitle, featureDesc, longDesc};
 }
 function renderDeepAnalysis(r){
   const traits=getTopTraits(r.traitScores,5);
@@ -1833,10 +1841,7 @@ function renderDeepAnalysis(r){
 
 function renderResult(){
   const r=state.result || computeResult();
-  const rawDesc = state.mode==='warm'?r.object.warm:r.object.crazy;
-  const featureDesc = buildObjectFeature(r, rawDesc);
-  const longDesc = buildLongAnalysis(r);
-  const modeTitle = state.mode==='warm'?'温柔地看':'劳资爱怎么看怎么看';
+  const {modeTitle, featureDesc, longDesc} = getModeCopy(r, state.mode);
   const main=`
   <div class="result-tip"><strong>提示</strong><span>系统把你回答里最强的旧反馈先调低音量，再根据剩下的倾向生成这个初始化设定。它不是心理诊断，也不是最终答案，只是一个反事实推演版本：如果少一些被迫适应，你可能更接近什么样子。</span></div>
   <div class="result-head">
@@ -1851,7 +1856,9 @@ function renderResult(){
   </div>
   <div class="result-card"><div class="result-title">MBTI 反推比例</div><div class="list-grid">${axisPercentHTML(r.initScores)}</div></div>
   <div class="result-card"><div class="result-title">平行人生剧本</div><div class="script-grid">${DATA.scripts.map(s=>`<div class="script-card ${state.scriptId===s.id?'active':''}" onclick="state.scriptId='${s.id}';render()"><h4>${s.name}</h4><p>${s.desc}</p></div>`).join('')}</div>${state.scriptId?`<p class="description">${DATA.scripts.find(s=>s.id===state.scriptId).story.replace('系统暂时保留剧本功能，后续再深挖。','')}</p>`:''}</div>
-  <div class="result-card"><button class="btn secondary" onclick="toggleDeep()">展开深层分析</button>${renderDeepAnalysis(r)}<div class="footer-actions"><button class="btn" onclick="downloadShare()">生成分享图</button><button class="btn secondary" onclick="exportJSON()">导出匿名 JSON</button><button class="btn ghost" onclick="copyResult()">复制结果文本</button><button class="btn ghost" onclick="location.reload()">重新开始</button></div><textarea id="copyText" class="textarea-copy" readonly>${makeShareText(r, modeTitle, featureDesc+'\n\n'+longDesc)}</textarea></div>`;
+  <div class="result-card"><button class="btn secondary" onclick="toggleDeep()">展开深层分析</button>${renderDeepAnalysis(r)}
+    <div class="share-settings"><div><strong>分享图描述版本</strong><span>只影响导出的图片，不改变页面当前报告。</span></div><div class="mode-toggle compact"><button class="mode-btn ${state.shareMode==='warm'?'active':''}" onclick="state.shareMode='warm';render()">温柔版</button><button class="mode-btn crazy ${state.shareMode==='crazy'?'active':''}" onclick="state.shareMode='crazy';render()">嘴毒版</button></div></div>
+    <div class="footer-actions"><button class="btn" onclick="downloadShare()">生成分享图</button><button class="btn secondary" onclick="exportJSON()">导出匿名 JSON</button><button class="btn ghost" onclick="copyResult()">复制结果文本</button><button class="btn ghost" onclick="location.reload()">重新开始</button></div><textarea id="copyText" class="textarea-copy" readonly>${makeShareText(r, modeTitle, featureDesc+'\n\n'+longDesc)}</textarea></div>`;
   layout(main);
 }
 function toggleDeep(){document.getElementById('deep').classList.toggle('open');}
@@ -1864,23 +1871,48 @@ function exportJSON(){
 }
 function downloadShare(){
   const r=state.result || computeResult(); const canvas=document.getElementById('shareCanvas'); const ctx=canvas.getContext('2d');
-  ctx.fillStyle='#f7efe3'; ctx.fillRect(0,0,1200,1600);
-  ctx.fillStyle='#241f1a'; ctx.font='bold 64px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('返老还童',80,120);
-  ctx.font='26px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('初始化设定反推报告',84,165);
-  roundRect(ctx,70,220,1060,310,36,'#fff9ee');
-  ctx.font='bold 58px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillStyle='#241f1a'; wrapText(ctx,`${r.initMbti} - ${r.object.name}`,110,300,780,70);
-  ctx.font='120px serif'; ctx.fillText(r.object.emoji,910,360);
-  ctx.font='26px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillStyle='#6b6258'; wrapText(ctx,`现实输入 ${r.inputMbti} · 删除旧反馈后生成`,112,455,860,38);
-  roundRect(ctx,70,570,1060,420,36,'#fff9ee');
-  ctx.fillStyle='#241f1a'; ctx.font='bold 34px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('系统删除了',110,640);
-  ctx.font='28px -apple-system, BlinkMacSystemFont, sans-serif';
-  r.deletion.slice(0,4).forEach((d,i)=>{ctx.fillStyle='#241f1a';ctx.fillText(`${i+1}. ${d.title} ${d.percent}%`,120,700+i*70);});
-  roundRect(ctx,70,1040,1060,360,36,'#241f1a');
-  ctx.fillStyle='#fff4e2'; ctx.font='bold 34px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('保留下来的你',110,1110);
-  ctx.font='28px -apple-system, BlinkMacSystemFont, sans-serif'; wrapText(ctx,r.retained.map(x=>x.title).join(' / '),110,1170,940,42);
-  ctx.font='24px -apple-system, BlinkMacSystemFont, sans-serif'; wrapText(ctx,'这不是测你是谁，而是推演：如果少一些旧反馈、少一些被迫适应，你可能更接近什么样子。',110,1280,940,36);
+  const share = getModeCopy(r,state.shareMode||state.mode);
+  canvas.width=1200; canvas.height=1800;
+  ctx.fillStyle='#f7efe3'; ctx.fillRect(0,0,1200,1800);
+  ctx.fillStyle='#241f1a'; ctx.font='bold 64px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('返老还童',80,118);
+  ctx.font='26px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('初始化设定反推报告',84,164);
+  roundRect(ctx,70,210,1060,330,36,'#fff9ee');
+  ctx.font='bold 62px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillStyle='#241f1a'; drawWrappedText(ctx,`${r.initMbti} - ${r.object.name}`,110,300,700,72,2);
+  ctx.font='210px serif'; ctx.fillText(r.object.emoji,858,410);
+  ctx.font='25px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillStyle='#6b6258'; drawWrappedText(ctx,`现实输入 ${r.inputMbti} · 当前校准 ${r.currentMbti} · ${share.modeTitle}`,112,470,900,36,2);
+  roundRect(ctx,70,585,1060,380,36,'#fff9ee');
+  ctx.fillStyle='#241f1a'; ctx.font='bold 34px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('系统删除了哪些旧反馈',110,655);
+  let y=715;
+  r.deletion.slice(0,3).forEach((d,i)=>{
+    ctx.fillStyle='#241f1a'; ctx.font='bold 27px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText(`${i+1}. ${d.title} ${d.percent}%`,120,y);
+    ctx.fillStyle='#6b6258'; ctx.font='23px -apple-system, BlinkMacSystemFont, sans-serif'; y=drawWrappedText(ctx,d.desc,120,y+38,900,32,2)+22;
+  });
+  roundRect(ctx,70,1010,1060,670,36,'#241f1a');
+  ctx.fillStyle='#fff4e2'; ctx.font='bold 36px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('保留下来的你',110,1084);
+  ctx.font='25px -apple-system, BlinkMacSystemFont, sans-serif'; drawWrappedText(ctx,r.retained.map(x=>x.title).join(' / '),110,1138,940,38,2);
+  ctx.font='bold 28px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('物件画像',110,1235);
+  ctx.font='23px -apple-system, BlinkMacSystemFont, sans-serif'; y=drawWrappedText(ctx,share.featureDesc,110,1280,940,34,5);
+  ctx.font='bold 28px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('人格细化',110,y+34);
+  ctx.font='23px -apple-system, BlinkMacSystemFont, sans-serif'; drawWrappedText(ctx,share.longDesc,110,y+78,940,34,7);
+  ctx.fillStyle='#6b6258'; ctx.font='22px -apple-system, BlinkMacSystemFont, sans-serif'; ctx.fillText('这不是心理诊断，只是一个反事实推演版本。',80,1745);
   const a=document.createElement('a'); a.href=canvas.toDataURL('image/png'); a.download='initial-self-card.png'; a.click();
 }
 function roundRect(ctx,x,y,w,h,r,color){ctx.fillStyle=color;ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();ctx.fill();}
 function wrapText(ctx,text,x,y,maxWidth,lineHeight){let words=String(text).split(''),line='';for(let n=0;n<words.length;n++){let test=line+words[n];if(ctx.measureText(test).width>maxWidth&&n>0){ctx.fillText(line,x,y);line=words[n];y+=lineHeight;}else{line=test;}}ctx.fillText(line,x,y);}
+function fitLine(ctx,line,maxWidth){let out=line;while(ctx.measureText(out+'…').width>maxWidth&&out.length>0) out=out.slice(0,-1);return out+'…';}
+function drawWrappedText(ctx,text,x,y,maxWidth,lineHeight,maxLines=Infinity){
+  const chars=String(text).replace(/\s+/g,' ').split('');
+  let line='', lines=0;
+  for(let n=0;n<chars.length;n++){
+    const test=line+chars[n];
+    if(ctx.measureText(test).width>maxWidth && n>0){
+      if(lines>=maxLines-1){ctx.fillText(fitLine(ctx,line+chars.slice(n).join(''),maxWidth),x,y);return y+lineHeight;}
+      ctx.fillText(line,x,y); line=chars[n]; y+=lineHeight; lines++;
+    }else{
+      line=test;
+    }
+  }
+  if(line){ctx.fillText(line,x,y); y+=lineHeight;}
+  return y;
+}
 render();
