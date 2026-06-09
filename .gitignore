@@ -5,3 +5,4 @@ node_modules/
 .netlify/
 .env
 .env.*
+6.9.7-data/
