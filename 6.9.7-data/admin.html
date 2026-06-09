@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>返老还童｜匿名统计后台</title>
+  <link rel="stylesheet" href="styles.css?v=6.9.7-data" />
+</head>
+<body>
+  <main id="adminApp" class="admin-page">
+    <section class="panel admin-panel">
+      <div class="kicker"><span class="logo-dot"></span>匿名内测统计</div>
+      <h1 class="admin-title">数据后台</h1>
+      <p class="panel-desc">这里只读取匿名摘要统计，不展示完整答案、debug 数据或身份信息。密钥只保存在当前页面内存，刷新后需要重新输入。</p>
+      <div class="admin-login">
+        <input id="adminSecret" class="admin-input" type="password" autocomplete="off" placeholder="输入管理员密钥" />
+        <button id="loadStatsBtn" class="btn">查看统计</button>
+      </div>
+      <div id="adminMessage" class="admin-message"></div>
+    </section>
+    <section id="statsPanel" class="admin-stats" hidden></section>
+  </main>
+  <script src="admin.js?v=6.9.7-data"></script>
+</body>
+</html>
