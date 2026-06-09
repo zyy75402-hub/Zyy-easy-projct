@@ -2302,7 +2302,18 @@ async function downloadShare(){
 }
 function saveShareImage(){
   if(!state.sharePreview) return;
-  const a=document.createElement('a'); a.href=state.sharePreview; a.download='initial-self-card.png'; a.click();
+  const blob=dataUrlToBlob(state.sharePreview);
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a'); a.href=url; a.download='initial-self-card.png'; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+function dataUrlToBlob(dataUrl){
+  const [meta,data]=dataUrl.split(',');
+  const mime=(meta.match(/data:(.*?);base64/)||[])[1] || 'image/png';
+  const raw=atob(data);
+  const bytes=new Uint8Array(raw.length);
+  for(let i=0;i<raw.length;i++) bytes[i]=raw.charCodeAt(i);
+  return new Blob([bytes],{type:mime});
 }
 function roundRect(ctx,x,y,w,h,r,color){ctx.fillStyle=color;ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();ctx.fill();}
 function wrapText(ctx,text,x,y,maxWidth,lineHeight){let words=String(text).split(''),line='';for(let n=0;n<words.length;n++){let test=line+words[n];if(ctx.measureText(test).width>maxWidth&&n>0){ctx.fillText(line,x,y);line=words[n];y+=lineHeight;}else{line=test;}}ctx.fillText(line,x,y);}
