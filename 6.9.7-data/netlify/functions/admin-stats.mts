@@ -1,6 +1,7 @@
 import { getDeployStore, getStore } from "@netlify/blobs";
 
 declare const Netlify: any;
+declare const process: { env?: Record<string, string | undefined> };
 
 const STORE_NAME = "personality-submissions";
 
@@ -15,7 +16,14 @@ function json(data: unknown, init: ResponseInit = {}) {
 }
 
 function getAdminSecret() {
-  return Netlify.env.get("ADMIN_SECRET") || "";
+  try {
+    const netlifySecret = typeof Netlify !== "undefined" ? Netlify.env.get("ADMIN_SECRET") : "";
+    if (netlifySecret) return netlifySecret;
+  } catch {
+    // Fall back to the standard Node environment below.
+  }
+
+  return process?.env?.ADMIN_SECRET || "";
 }
 
 function getSubmissionStore(context: any) {
